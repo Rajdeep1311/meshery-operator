@@ -1,5 +1,5 @@
 <p style="text-align:center;" align="center"><a href="https://layer5.io/meshery"><picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Rajdeep1311/meshery-operator/assets/113296626/a5d97824-9352-44c4-9527-0080eaad6dff"  width="70%" align="center" style="margin-bottom:20px;">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Rajdeep1311/meshery-operator/assets/113296626/a5d97824-9352-44c4-9527-0080eaad6dff"  width="71%" align="center" style="margin-bottom:20px;">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Rajdeep1311/meshery-operator/assets/113296626/5fbbb944-6ee1-4971-ab99-11325a985e2b" width="70%" align="center" style="margin-bottom:20px;">
   <img alt="Shows an illustrated light mode meshery logo in light color mode and a dark mode meshery logo dark color mode." src="https://raw.githubusercontent.com/meshery/meshery/master/.github/assets/images/meshery/meshery-logo-tag-light-text-side.png" width="70%" align="center" style="margin-bottom:20px;">
 </picture></a><br /><br /></p>
